@@ -1,15 +1,15 @@
 # ansiterm Package
 
-ansiterm - a simple library to generate ANSI escape sequences
+ansiterm - change color and style (bold, reverse) of text on display
 
 # DESCRIPTION
 
 This manual page documents **ansiterm** module, a Python module providing
-functions for generating ANSI escape sequences.
+functions for generating ANSI escape sequences to change the color and the
+style (i.e., bold and reverse) of text displayed on the screen.
 
 A majority of terminal emulators support ANSI escape sequences.  **ansiterm**
-module provides a very limited set of functions for changing the color and the
-style of the characeters displayed on the screen. 
+module provides handy functions for changing the color and the style.
 
 Please refer to https://en.wikipedia.org/wiki/ANSI_escape_code for the
 introduction of ANSI escape sequences.
@@ -43,7 +43,9 @@ for bold in (False, True):
   NAME.  Make the text boldface and reversed video if BOLD or REVERSE is True,
   respectively.
 
-The following functions are provided as short-cuts.
+The following functions are provided as short-cuts.  For instance, blue(astr)
+and reest(astr) are equivalent to color(astr, 'blue') and color(astr, 'reset),
+respectively.
 
 - reset(astr, bold=False, reverse=False)
 
