@@ -2,6 +2,8 @@
 
 ansiterm - change color and style (bold, reverse) of text on display
 
+![screenshot](https://raw.githubusercontent.com/h-ohsaki/ansiterm/master/screenshot/screenshot.jpg)
+
 # DESCRIPTION
 
 This manual page documents **ansiterm** module, a Python module providing
