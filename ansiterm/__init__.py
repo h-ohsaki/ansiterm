@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #
-# A simple library to generate ANSI escape sequences.
+# Change color and style (bold, reverse) of text on display
 # Copyright (c) 2018-2019, Hiroyuki Ohsaki.
 # All rights reserved.
 #
