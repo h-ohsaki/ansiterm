@@ -10,7 +10,7 @@ setuptools.setup(
     version="1.0",
     author="Hiroyuki Ohsaki",
     author_email="ohsaki@lsnl.jp",
-    description="a simple library to generate ANSI escape sequences",
+    description="change color and style (bold, reverse) of text on display",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/h-ohsaki/ansiterm",
