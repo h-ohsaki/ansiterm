@@ -86,4 +86,4 @@ perl(1), perlfunc(1), getopt(3), Getopt::Std(3perl)
 
 # AUTHOR
 
-Hiroyuki Ohsaki <ohsaki[atmark]lsnl.jp>
+Hiroyuki Ohsaki <code[atmark]lsnl.jp>

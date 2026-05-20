@@ -4,8 +4,6 @@
 # Copyright (c) 2018-2019, Hiroyuki Ohsaki.
 # All rights reserved.
 #
-# $Id: term.py,v 1.6 2018/10/24 04:45:02 ohsaki Exp $
-#
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
