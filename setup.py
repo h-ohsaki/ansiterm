@@ -7,7 +7,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
     name="ansiterm",
-    version="1.0",
+    version="1.1",
     author="Hiroyuki Ohsaki",
     author_email="ohsaki@lsnl.jp",
     description="change color and style (bold, reverse) of text on display",
